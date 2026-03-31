@@ -33,6 +33,7 @@ Then in GitHub settings, enable **Template repository**.
 ```
 
 The script only refreshes `.github/skills` from upstream repo:
+
 - Upstream: `https://github.com/affaan-m/everything-claude-code`
 - Path: `skills`
 
